@@ -12,13 +12,10 @@
     "./symbols": "./lib/symbols.js"
   },
   "sideEffects": false,
-  "dependencies": {
-    "@bablr/agast-helpers": "0.3.2",
-    "@bablr/coroutine": "0.1.0"
-  },
+  "dependencies": {},
   "devDependencies": {
     "@bablr/agast-vm-helpers": "0.3.2",
-    "@bablr/boot": "0.4.0",
+    "@bablr/boot": "0.5.0",
     "@bablr/eslint-config-base": "github:bablr-lang/eslint-config-base#c040bc95f2dddac160628e4757a412016044b3ef",
     "@qnighy/dedent": "0.1.1",
     "enhanced-resolve": "^5.12.0",
